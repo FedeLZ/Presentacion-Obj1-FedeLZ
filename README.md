@@ -11,7 +11,7 @@
 
 ## Un poco de mí
 
-![Isaac](assets/Isaac.png)
+![gifPresentación](assets/gifPresentación.gif)
 
 ### *Me gustan muchos los juegos estilo roguelike como el dark souls o el the binding of isaac, también salir a caminar y pasear en bici y aprender a cocinar de todo un poco.*
 
